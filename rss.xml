@@ -4,7 +4,7 @@
         <description><![CDATA[SAVID]]></description>
         <link>https://thegrid.ai/savid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 02:42:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 02:43:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/savid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Company Bio]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7f1ea94-b0f2-433c-b907-a2f51bb02838.jpg</link>
             <guid isPermaLink="false">9400107d-ced2-4652-8270-a18eb20ccd6b</guid>
             <pubDate>Tue, 02 Aug 2016 02:16:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unified Collaboration Systems]]></title>
+            <description><![CDATA[<article><h1>Unified Collaboration Systems</h1><p>Video Conferencing, Audio Conferencing, On-The-Go Meeting</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/276e32d9-7b1a-4ce5-b24a-a8f49b652217.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/276e32d9-7b1a-4ce5-b24a-a8f49b652217.jpg</link>
+            <guid isPermaLink="false">7934a0c7-e718-4641-8ce3-dce7db7a1dd4</guid>
+            <pubDate>Tue, 02 Aug 2016 02:43:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Audio Systems]]></title>
@@ -39,13 +46,6 @@
             <description><![CDATA[<article><h1>Microphones</h1><p>Wired, Wireless, Boundary, Ceiling, Hands-free</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/127286d4-3aa4-49a7-8ba7-f995d3864ef9.jpg"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/127286d4-3aa4-49a7-8ba7-f995d3864ef9.jpg</link>
             <guid isPermaLink="false">ce69a6c0-237d-49e5-a85d-e065257e6ac4</guid>
-            <pubDate>Tue, 02 Aug 2016 01:32:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Unified Collaboration Systems]]></title>
-            <description><![CDATA[<article><h1>Unified Collaboration Systems</h1><p>Video Conferencing, Audio Conferencing, On-The-Go Meeting</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/276e32d9-7b1a-4ce5-b24a-a8f49b652217.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/276e32d9-7b1a-4ce5-b24a-a8f49b652217.jpg</link>
-            <guid isPermaLink="false">7934a0c7-e718-4641-8ce3-dce7db7a1dd4</guid>
             <pubDate>Tue, 02 Aug 2016 01:32:23 GMT</pubDate>
         </item>
     </channel>
