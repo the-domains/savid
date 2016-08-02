@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-02T02:24:00.393Z'
+datePublished: '2016-08-02T02:24:18.447Z'
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-02T02:08:47.855Z'
+dateModified: '2016-08-02T02:24:17.364Z'
 title: Unified Collaboration System
 publisher: {}
 description: WEB CONFERENCING
-starred: false
 sourcePath: _posts/2016-08-02-unified-collaboration-system.md
+starred: false
 url: unified-collaboration-system/index.html
 _type: MediaObject
 
