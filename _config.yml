@@ -1,4 +1,6 @@
 typography_spectrum: 0.7256112969480455
+content_rating:
+  adult: false
 color:
   brandStrength: 0.6847391477786005
   lightness: 0.02863389952108264
@@ -24,5 +26,5 @@ logo: >-
 name: SAVID
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/204856b0-081b-4b54-8301-edfc01911c60.ico
-title: SAVID
+title: The right solution within the budget
 description: The right solution within the budget
