@@ -37,6 +37,9 @@ navigation:
   - name: Audio Systems
     id: 25cbe1d5-1bdf-42cb-a442-b1bd278292f9
     type: content
+  - name: Microphones
+    id: 7e6ae8cf-e4d2-4847-9887-108eb95d60a6
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/204856b0-081b-4b54-8301-edfc01911c60.ico
 title: SAVID
