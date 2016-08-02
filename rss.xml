@@ -4,7 +4,7 @@
         <description><![CDATA[SAVID]]></description>
         <link>https://thegrid.ai/savid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 02:43:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 02:44:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/savid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Company Bio]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7f1ea94-b0f2-433c-b907-a2f51bb02838.jpg</link>
             <guid isPermaLink="false">9400107d-ced2-4652-8270-a18eb20ccd6b</guid>
             <pubDate>Tue, 02 Aug 2016 02:43:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Microphones]]></title>
+            <description><![CDATA[<article><h1>Microphones</h1><p>Wired, Wireless, Boundary, Ceiling, Hands-free</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/127286d4-3aa4-49a7-8ba7-f995d3864ef9.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/127286d4-3aa4-49a7-8ba7-f995d3864ef9.jpg</link>
+            <guid isPermaLink="false">ce69a6c0-237d-49e5-a85d-e065257e6ac4</guid>
+            <pubDate>Tue, 02 Aug 2016 02:44:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Displays]]></title>
@@ -40,13 +47,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4f4e8e2-70e3-4238-b162-07cf72ee4dfd.jpg</link>
             <guid isPermaLink="false">214bc08b-367a-4ab6-a142-aed961a6d0df</guid>
             <pubDate>Tue, 02 Aug 2016 02:41:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Microphones]]></title>
-            <description><![CDATA[<article><h1>Microphones</h1><p>Wired, Wireless, Boundary, Ceiling, Hands-free</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/127286d4-3aa4-49a7-8ba7-f995d3864ef9.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/127286d4-3aa4-49a7-8ba7-f995d3864ef9.jpg</link>
-            <guid isPermaLink="false">ce69a6c0-237d-49e5-a85d-e065257e6ac4</guid>
-            <pubDate>Tue, 02 Aug 2016 01:32:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
