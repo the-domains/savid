@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-02T02:34:45.584Z'
+datePublished: '2016-08-02T02:37:12.758Z'
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-02T02:34:22.599Z'
+dateModified: '2016-08-02T02:37:11.991Z'
 title: Microphone
 publisher: {}
-description: BEAMFORMING MICROPHONE CEILING MICROPHONE TABLETOP MICROPHONE
-starred: false
+description: BEAMFORMING MICROPHONECEILING MICROPHONETABLETOP MICROPHONE
 sourcePath: _posts/2016-08-02-microphone.md
+starred: false
 url: microphone/index.html
 _type: MediaObject
 
