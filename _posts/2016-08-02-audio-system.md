@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-02T02:34:46.828Z'
+datePublished: '2016-08-02T02:36:59.040Z'
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-02T02:32:14.315Z'
+dateModified: '2016-08-02T02:36:57.755Z'
 title: Audio System
 publisher: {}
 description: PROFESSIONAL AUDIO
-starred: false
 sourcePath: _posts/2016-08-02-audio-system.md
+starred: false
 url: audio-system/index.html
 _type: MediaObject
 
