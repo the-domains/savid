@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-02T02:36:17.921Z'
+datePublished: '2016-08-02T02:36:35.491Z'
 sourcePath: _posts/2016-08-02-network-av.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-02T02:36:17.202Z'
+dateModified: '2016-08-02T02:36:34.473Z'
 title: Networked AV Systems
 publisher: {}
 description: CONTROL SYSTEM
