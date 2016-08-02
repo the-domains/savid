@@ -1,25 +1,25 @@
 ---
-datePublished: '2016-08-02T02:28:36.757Z'
+datePublished: '2016-08-02T02:36:17.921Z'
+sourcePath: _posts/2016-08-02-network-av.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-02T02:27:54.732Z'
-title: Network AV
+dateModified: '2016-08-02T02:36:17.202Z'
+title: Networked AV Systems
 publisher: {}
 description: CONTROL SYSTEM
 starred: false
-sourcePath: _posts/2016-08-02-network-av.md
 url: network-av/index.html
 _type: MediaObject
 
 ---
-# Network AV
+# Networked AV Systems
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b6c1c54a59e46f984f595c61fe8b562896b39389.png)
 
 [CONTROL SYSTEM][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc80322e-6eaa-4bf3-82ed-f5c21512bcf2.png)
 
 [K-TOUCH][1]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc80322e-6eaa-4bf3-82ed-f5c21512bcf2.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40edfb69-4fb8-49da-9bc1-f602e107cb7c.png)
 
 [TOUCHLINK][2]
