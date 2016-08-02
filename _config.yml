@@ -1,4 +1,3 @@
-layout_spectrum: 0.34596751048229635
 typography_spectrum: 0.7256112969480455
 color:
   brandStrength: 0.6847391477786005
@@ -11,5 +10,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.34596751048229635
 name: SAVID
+title: SAVID
 description: The right solution within the budget
