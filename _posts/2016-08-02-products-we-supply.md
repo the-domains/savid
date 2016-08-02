@@ -1,21 +1,20 @@
 ---
 description: >-
   We supply a range of AV & IT products for clients in the Commercial,
-  Hospitality, Retail, F&B, Banking, Government, Media and Education Industry.
-  Our products includes: -Displays -Unified Collaboration Systems -Networked AV
-  Systems -Audio Systems -Microphones
-dateModified: '2016-08-02T01:27:31.033Z'
-datePublished: '2016-08-02T01:32:23.446Z'
+  Hospitality, Retail, F&B, Banking, Government, Media and Education
+  Industry.Our products includes:-Displays-Unified Collaboration
+  Systems-Networked AV Systems-Audio Systems-Microphones
+dateModified: '2016-08-02T01:38:22.850Z'
+datePublished: '2016-08-02T01:38:23.843Z'
 title: Products We Supply
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-02-products-we-supply.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: products-we-supply/index.html
+_type: Blurb
 
 ---
 # Products We Supply
