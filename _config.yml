@@ -1,0 +1,14 @@
+layout_spectrum: 0.34596751048229635
+typography_spectrum: 0.7256112969480455
+color:
+  brandStrength: 0.6847391477786005
+  lightness: 0.02863389952108264
+  saturation: 0.3059508001897484
+  rhythmicContrast: 0.08301537740044296
+  brandColors:
+    - '#FFFFFF'
+    - '#408EBC'
+    - '#0068A1'
+    - '#7FB5CD'
+    - '#F0F388'
+name: SAVID
