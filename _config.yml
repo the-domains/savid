@@ -31,6 +31,9 @@ navigation:
   - name: Unified Collaboration System
     id: 964bb86b-817e-4c22-a0f6-8f27fe114060
     type: content
+  - name: Networked AV Systems
+    id: 81591792-843b-4c52-916e-7f88886a519f
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/204856b0-081b-4b54-8301-edfc01911c60.ico
 title: SAVID
