@@ -10,7 +10,19 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+opengraph:
+  type: Website
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f874414-2010-4d66-b768-7b63afbf8093.png
 layout_spectrum: 0.34596751048229635
+author:
+  name: Robin
+  email: robin.tan@savid.asia
+  url: www.savid.asia
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/61a00c03-1a92-4081-97d3-2b5a71ffff79.jpg
 name: SAVID
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/204856b0-081b-4b54-8301-edfc01911c60.ico
 title: SAVID
 description: The right solution within the budget
