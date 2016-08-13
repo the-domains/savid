@@ -17,6 +17,8 @@ opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f874414-2010-4d66-b768-7b63afbf8093.png
 layout_spectrum: 0.34596751048229635
+analytics:
+  google: UA-62058056-2
 author:
   name: ''
   email: ''
